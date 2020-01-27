@@ -19,9 +19,9 @@
         "notes-form":  	                    {url:"$H/m/library/notes-form.html",Table:"hdeeg-notes"},
 
         "hdeeg-evening-finger-tapping-data":	        {url:"$H/m/neurocog/finger-tapping12-before-data.html",Table:"hdeeg-evening-finger-tapping",form_module:"hdeeg-evening-finger-tapping-form"},
-        "hdeeg-evening-finger-tapping-form":	        {url:"$H/m/neurocog/finger-tapping12-alt-before-form.html",Table:"hdeeg-evening-finger-tapping",task_name:"Finger Tapping"},
+        "hdeeg-evening-finger-tapping-form":	        {url:"$H/m/neurocog/finger-tapping12-alt-before-form.html",Table:"hdeeg-evening-finger-tapping",task_name:"Finger Tapping Evening"},
         "hdeeg-morning-finger-tapping-data":	        {url:"$H/m/neurocog/finger-tapping6-after-data.html",Table:"hdeeg-morning-finger-tapping",form_module:"hdeeg-morning-finger-tapping-form"},
-        "hdeeg-morning-finger-tapping-form":	        {url:"$H/m/neurocog/finger-tapping6-alt-after-form.html",Table:"hdeeg-morning-finger-tapping",Table2:"hdeeg-evening-finger-tapping",task_name:"Finger Tapping"},
+        "hdeeg-morning-finger-tapping-form":	        {url:"$H/m/neurocog/finger-tapping6-alt-after-form.html",Table:"hdeeg-morning-finger-tapping",Table2:"hdeeg-evening-finger-tapping",task_name:"Finger Tapping Morning"},
 
    }
    for(p in modules){
